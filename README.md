@@ -9,5 +9,8 @@ _Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el a�
   
 
 ![gato cartoon.](https://i.pinimg.com/474x/fc/34/37/fc3437d629c298134dd7ddb90bd302ba.jpg)
+
 :EMOJICODE😿
-r
+
+> [!NOTA]
+> Al contrario del pensamiento popular, el texto de Lorem Ipsum no es simplemente texto aleatorio
