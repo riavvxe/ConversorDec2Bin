@@ -15,5 +15,5 @@ _Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el a�
 
 
 
->[NOTA]
+>[!NOTA]
 >Información importante sobre el Lorem Ipsum.
