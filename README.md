@@ -14,5 +14,8 @@ _Lorem Ipsum ha sido el texto de relleno estÃ¡ndar de las industrias desde el aÃ
 
 > [!NOTA]
 > Al contrario del pensamiento popular, el texto de Lorem Ipsum no es simplemente texto aleatorio.
+
+
+
 > [!WARNING]
 > Urgent info that needs immediate user attention to avoid problems.
